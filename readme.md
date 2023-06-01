@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png)
 
-> Dark appearance. All apps are in one desktop since there is delay in switching between macOS multiple desktops. Dock is hidden. Desktop background is dynamic.
+> Dark appearance. All apps are in one desktop since there is delay in switching between macOS multiple desktops. Dock is hidden.
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/light.png)
 
@@ -29,7 +29,7 @@
 
 I use a [lot of apps](https://wiki.nikiv.dev/code/config#macos-apps-i-have-installed) on my mac. Below is a list of my favorite tools with descriptions of how I use them.
 
-I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
+I also share [my config](https://github.com/nikitavoloboev/config) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
 I have [extensive wiki](https://wiki.nikiv.dev) where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know). I go in detail about how I use each of the apps in the wiki. Not to duplicate the content, I simply link to the wiki from here as the wiki will always be up to date.
 
@@ -41,10 +41,10 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 ### Productivity
 
+- [KusKus](https://kuskus.app) for personal tasks. It has the great onscreen keybinds. AI suggestions. Easily change priority or assign tasks to a tag.
 - [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred), [Raycast](https://wiki.nikiv.dev/tools/raycast) & [Script Kit](https://wiki.nikiv.dev/macOS/apps/scriptkit) for everything search related. I create many custom plugins to do specific searches I need.
 - [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is essential tool I use to remap my keyboard. It's the tool on which my entire mac workflow is built. Essentially all the keys on my keyboard are dual purpose keys. Press once, it enters the key, hold together with another key and do custom action. I have 100's of these custom actions all within 1 second of activation for me.
 - [Keyboard Maestro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/) for all automation needs that are not search related. Both Alfred/Raycast/ScriptKit and KM are activated from Karabiner directly. I share all my KM macros [here](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros).
-- [2Do](https://wiki.nikiv.dev/macOS/apps/2do) for personal tasks. It has the best onscreen keybinds ever like `y` to move task for due tomorrow. Easily change priority or assign task to list.
 - [Height](https://height.app) for project & personal [goals](https://wiki.nikiv.dev/focusing/goals) management. It's one of my main tools to [break down problems as I solve them](https://wiki.nikiv.dev/research/solving-problems) in team or personal setting.
 - [1Password](https://wiki.nikiv.dev/macOS/apps/1password) use it to keep all passwords and secret info. I prefer to use Single Sign On via GitHub or Google as I do dislike keeping track of passwords.
 - [BetterTouchTool](https://wiki.nikiv.dev/macOS/apps/bettertouchtool) use it for custom trackpad gestures. Specifically love three finger swipe left/right to move between tabs in [Safari](https://wiki.nikiv.dev/web/browsers/safari). Three finger swipe up to create new tab. Three down to close. Four finger swipe global swipe to show Safari. Four to right to open [VSCode](https://wiki.nikiv.dev/text-editors/vs-code). Four left to open [Warp](https://wiki.nikiv.dev/unix/shell/warp).
@@ -95,7 +95,7 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 Use [Brew](https://wiki.nikiv.dev/package-managers/brew) and global [pnpm](https://pnpm.io/) packages for most of my CLIs. Although eventually want to settle down on [Nix](https://wiki.nikiv.dev/package-managers/nix) as I learn it more.
 
-I try to keep my macOS declarative. Currently it's a [Go file](https://github.com/nikitavoloboev/dotfiles/blob/master/magefile.go) in my [dotfiles](https://github.com/nikitavoloboev/dotfiles) and is not up to date.
+I try to keep my macOS declarative. Currently it's a [Go file](https://github.com/nikitavoloboev/config/blob/master/magefile.go) in my [config](https://github.com/nikitavoloboev/config) and is not up to date.
 
 I list CLIs I use [here](https://wiki.nikiv.dev/cli).
 
