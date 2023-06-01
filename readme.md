@@ -2,11 +2,11 @@
 
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac/master/night.png)
 
 > Dark appearance. All apps are in one desktop since there is delay in switching between macOS multiple desktops. Dock is hidden.
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/light.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac/master/light.png)
 
 > Light appearance. Use light themes when outside or when there is glare from the sun as it makes text more readable.
 
