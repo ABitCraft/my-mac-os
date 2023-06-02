@@ -41,7 +41,7 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 ### Productivity
 
-- [KusKus](https://kuskus.app) for personal tasks. It has the great onscreen keybinds. AI suggestions. Easily change priority or assign tasks to a tag.
+- [KusKus](https://kuskus.app) for personal tasks. It has great onscreen keybinds. AI suggestions. Easily change priority or assign tasks to a tag.
 - [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred), [Raycast](https://wiki.nikiv.dev/tools/raycast) & [Script Kit](https://wiki.nikiv.dev/macOS/apps/scriptkit) for everything search related. I create many custom plugins to do specific searches I need.
 - [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is essential tool I use to remap my keyboard. It's the tool on which my entire mac workflow is built. Essentially all the keys on my keyboard are dual purpose keys. Press once, it enters the key, hold together with another key and do custom action. I have 100's of these custom actions all within 1 second of activation for me.
 - [Keyboard Maestro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/) for all automation needs that are not search related. Both Alfred/Raycast/ScriptKit and KM are activated from Karabiner directly. I share all my KM macros [here](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros).
@@ -104,13 +104,13 @@ I list CLIs I use [here](https://wiki.nikiv.dev/cli).
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen.png"></a>
+    <img width="250" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/1.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-2.png"></a>
+    <img width="250" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/2.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.png"></a>
+    <img width="250" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/main/3.png"></a>
 
 ## Similar Setups
 
