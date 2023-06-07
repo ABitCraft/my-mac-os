@@ -10,6 +10,7 @@
 
 > Light appearance. Use light themes when outside or when there is glare from the sun as it makes text more readable.
 
+- [macOS Automation Course](#macos-automation-course)
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Code](#code)
@@ -24,6 +25,12 @@
 - [Similar Setups](#similar-setups)
 - [Related](#related)
 - [Contributing](#contributing)
+
+## macOS Automation Course
+
+I released a [course on everything I have learned about macOS](https://macos.nikiv.dev) over the years.
+
+It goes in detail over all the apps I use and you can replicate the same setup on your mac.
 
 ## Applications
 
