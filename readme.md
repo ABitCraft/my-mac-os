@@ -133,7 +133,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
-## Contributing
+## Contribute
 
 If you shared a similar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
 
