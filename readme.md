@@ -21,7 +21,7 @@
   - [Browsers](#browsers)
     - [Safari Extensions](#safari-extensions)
 - [Command Line Apps](#command-line-apps)
-- [My wonderful world of iOS](#my-wonderful-world-of-ios-)
+- [My iOS](#my-ios)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -106,7 +106,7 @@ I try to keep my macOS declarative. Currently it's a [Go file](https://github.co
 
 I list CLIs I use [here](https://wiki.nikiv.dev/cli).
 
-## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
+## [My iOS](https://github.com/nikitavoloboev/my-ios)
 
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
