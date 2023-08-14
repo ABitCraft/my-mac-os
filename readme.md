@@ -1,6 +1,6 @@
-# My wonderful world of macOS [![Thanks](https://bit.ly/saythankss)](https://github.com/sponsors/nikitavoloboev)
+# My macOS
 
-> List of applications and tools that make my macOS experience even more amazing
+> Apps/tools I use on macOS
 
 ![](https://raw.githubusercontent.com/nikitavoloboev/my-mac/master/night.png)
 
